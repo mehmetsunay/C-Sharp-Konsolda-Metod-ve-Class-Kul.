@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ConsoleAppOgrenci.exe
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ConsoleAppOgrenci.deps.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ConsoleAppOgrenci.runtimeconfig.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ConsoleAppOgrenci.runtimeconfig.dev.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ConsoleAppOgrenci.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ref\ConsoleAppOgrenci.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\bin\Debug\net5.0\ConsoleAppOgrenci.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.AssemblyInfo.cs
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ref\ConsoleAppOgrenci.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppOgrenci\obj\Debug\net5.0\ConsoleAppOgrenci.genruntimeconfig.cache
